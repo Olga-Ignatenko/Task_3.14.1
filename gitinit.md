@@ -1,6 +1,6 @@
 [ < к содержанию](./readme.md)
 
-<span style="color:blue"> ## git init
+## git init
 
 
 "**Init**" - это сокращение от "**initialize**" ( т.е. "инициализироать" или "включать", "запускать").

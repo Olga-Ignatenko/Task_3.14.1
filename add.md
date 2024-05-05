@@ -1,6 +1,5 @@
 [ < к содержанию](./readme.md)
-
-<span style="color:blue"> ## git add
+## git add
 
 **git add *[файл]*** — добавляет файл в индекс.
 

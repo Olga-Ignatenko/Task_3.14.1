@@ -1,6 +1,6 @@
 [ < к содержанию](./readme.md)
 
-<span style="color:blue"> ## git config
+## git config
 
 
 **git config** - команда настройки параметров для Git на вашем компьютере.
